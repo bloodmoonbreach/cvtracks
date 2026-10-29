@@ -1,0 +1,10 @@
+# A track = one kind of job. It picks from the master; it never contains facts itself.
+id: security
+title: {en: Junior Security Analyst, es: Analista de Seguridad Junior}
+languages: [en, es]
+summary: security
+include_tags: [security]          # items with these tags (or no tags) are shown
+sections: [summary, experience, projects, certifications, skills, education, languages]
+skills_order: [security, systems]
+limits: {projects: 3, bullets: 4, max_words: 650}
+keywords: [SIEM, log analysis, incident response, triage]   # lint warns if the CV never mentions these

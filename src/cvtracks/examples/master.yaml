@@ -1,0 +1,105 @@
+# Example master file. Every fact you might ever put on a CV, written once.
+# Text can be a plain string, or one string per language: {en: ..., es: ...}
+# Tags decide which tracks show an item. No tags = shown everywhere.
+# Priority: 1 = always first, 2 = normal, 3 = first to drop when a track has limits.
+
+person:
+  name: Alex Example
+  email: alex@example.com
+  phone: "+34 600 000 000"
+  website: alex.example.dev
+  github: alex-example
+  linkedin: alex-example
+
+summaries:
+  security:
+    en: >-
+      Junior security analyst with a systems administration background. Hands-on with log analysis,
+      alert triage and hardening in home-lab and training environments.
+    es: >-
+      Analista de seguridad junior con experiencia previa en administración de sistemas. Práctica en
+      análisis de logs, triaje de alertas y bastionado en laboratorio propio y plataformas de formación.
+  support:
+    es: >-
+      Técnico de soporte informático con trato directo con usuarios: incidencias de hardware, sistemas
+      operativos y redes, documentadas en un sistema de tickets.
+    en: >-
+      IT support technician used to working with users directly: hardware, OS and network incidents,
+      documented in a ticketing system.
+
+experience:
+  - id: acme-support
+    role: {en: IT Support Technician, es: Técnico de soporte IT}
+    company: Acme Retail S.L.
+    location: Madrid
+    start: 2022-09
+    end: 2025-06
+    tags: [support, security]
+    bullets:
+      - text:
+          en: Resolved ~25 tickets a day across Windows, macOS and printers, with 94% first-contact resolution
+          es: Resolución de ~25 tickets diarios (Windows, macOS, impresoras) con un 94% resueltos al primer contacto
+        keywords: [ticketing, Windows, helpdesk]
+        tags: [support]
+      - text:
+          en: Rolled out MFA for 120 users and wrote the onboarding guide
+          es: Despliegue de MFA para 120 usuarios y redacción de la guía de incorporación
+        keywords: [MFA, Active Directory]
+        priority: 1
+      - text:
+          en: Reviewed firewall and VPN logs weekly and escalated anomalies to the external SOC
+          es: Revisión semanal de logs de firewall y VPN, escalando anomalías al SOC externo
+        keywords: [log analysis, SOC, VPN, firewall]
+        tags: [security]
+
+education:
+  - id: smr
+    degree: {en: "Vocational diploma in Microcomputer Systems and Networks (SMR)", es: "CFGM Sistemas Microinformáticos y Redes (SMR)"}
+    school: IES Example
+    start: 2025-09
+    ongoing: true
+    status: {en: In progress, es: En curso}
+
+projects:
+  - id: homelab
+    name: {en: Home SOC lab, es: Laboratorio SOC casero}
+    org: Wazuh · Suricata · Docker
+    start: 2025
+    tags: [security]
+    keywords: [SIEM, Wazuh, IDS]
+    bullets:
+      - en: Built a Wazuh + Suricata lab to practise detection rules and alert triage
+        es: Montaje de un laboratorio Wazuh + Suricata para practicar reglas de detección y triaje de alertas
+
+certifications:
+  - id: cc
+    name: ISC2 Certified in Cybersecurity (CC)
+    issuer: ISC2
+    date: 2025-11
+    tags: [security]
+    keywords: [ISC2, CC]
+  - id: itf
+    name: CompTIA IT Fundamentals (ITF+)
+    issuer: CompTIA
+    date: 2024-05
+    tags: [support]
+
+skills:
+  - id: security
+    label: {en: Security, es: Seguridad}
+    tags: [security]
+    items: [SIEM (Wazuh), Log analysis, Alert triage, MFA, Hardening]
+  - id: support
+    label: {en: Support, es: Soporte}
+    tags: [support]
+    items: [Windows 10/11, Active Directory, Ticketing (GLPI), Hardware repair, Office 365]
+  - id: systems
+    label: {en: Systems & networks, es: Sistemas y redes}
+    items: [Linux, Docker, TCP/IP, DNS, DHCP, VPN]
+
+languages:
+  - name: {en: Spanish, es: Español}
+    level: {en: Native, es: Nativo}
+  - name: {en: English, es: Inglés}
+    level: {en: Professional (C1), es: Profesional (C1)}
+    cefr: C1

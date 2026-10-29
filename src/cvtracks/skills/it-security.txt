@@ -1,0 +1,450 @@
+# Skills, tools, frameworks and certifications that tailoring reports as "missing" when a job post names
+# them and the master file doesn't. One term per line; matching is case- and accent-insensitive on whole
+# words. Only terms listed here are reported, so job-page boilerplate ("About us", city names, headings)
+# never shows up. Add a line when a real skill is missing from reports.
+
+# --- Security operations / blue team
+SIEM
+SOAR
+EDR
+XDR
+NDR
+MDR
+SOC
+CSIRT
+CIRT
+CERT
+DFIR
+digital forensics
+forensics
+incident response
+incident handling
+threat hunting
+threat intelligence
+cyber threat intelligence
+CTI
+IOC
+IOCs
+MITRE ATT&CK
+Cyber Kill Chain
+log analysis
+alert triage
+triage
+playbooks
+use cases
+detection engineering
+Sigma
+YARA
+Snort
+Suricata
+Zeek
+Wireshark
+tcpdump
+packet analysis
+malware analysis
+reverse engineering
+sandboxing
+phishing analysis
+email security
+DLP
+UEBA
+deception
+honeypot
+Splunk
+Splunk ES
+QRadar
+Microsoft Sentinel
+Azure Sentinel
+Elastic SIEM
+ELK
+Elastic Stack
+Elasticsearch
+Kibana
+Logstash
+Graylog
+Wazuh
+Security Onion
+LogRhythm
+ArcSight
+Chronicle
+Google SecOps
+Exabeam
+Sumo Logic
+Datadog
+CrowdStrike
+CrowdStrike Falcon
+SentinelOne
+Microsoft Defender
+Defender for Endpoint
+Carbon Black
+Cortex XDR
+Cortex XSOAR
+Palo Alto
+Fortinet
+FortiGate
+Check Point
+Cisco ASA
+Cisco Umbrella
+Zscaler
+Netskope
+Proofpoint
+Mimecast
+Darktrace
+Vectra
+Tenable
+Nessus
+Qualys
+Rapid7
+InsightVM
+OpenVAS
+vulnerability management
+vulnerability assessment
+vulnerability scanning
+patch management
+CVE
+CVSS
+CWE
+EPSS
+
+# --- Offensive / application security
+penetration testing
+pentesting
+red team
+red teaming
+purple team
+ethical hacking
+web application security
+application security
+AppSec
+API security
+mobile security
+OWASP
+OWASP Top 10
+PTES
+OSSTMM
+Burp Suite
+OWASP ZAP
+ZAP
+Metasploit
+Nmap
+sqlmap
+Nikto
+Gobuster
+ffuf
+Hydra
+John the Ripper
+Hashcat
+BloodHound
+Mimikatz
+Impacket
+Responder
+Cobalt Strike
+Kali Linux
+Parrot OS
+privilege escalation
+lateral movement
+Active Directory attacks
+social engineering
+OSINT
+reconnaissance
+SAST
+DAST
+SCA
+secure code review
+code review
+threat modeling
+bug bounty
+CTF
+
+# --- Identity, access, governance, compliance
+IAM
+identity and access management
+PAM
+privileged access management
+SSO
+MFA
+SAML
+OAuth
+OIDC
+Okta
+CyberArk
+SailPoint
+Azure AD
+Entra ID
+Microsoft Entra
+Active Directory
+LDAP
+Kerberos
+Group Policy
+GPO
+zero trust
+GRC
+risk assessment
+risk management
+risk analysis
+business continuity
+disaster recovery
+ISO 27001
+ISO/IEC 27001
+ISO 27002
+ISO 22301
+NIST
+NIST CSF
+NIST 800-53
+CIS Controls
+CIS Benchmarks
+SOC 2
+PCI DSS
+GDPR
+RGPD
+NIS2
+DORA
+ENS
+Esquema Nacional de Seguridad
+HIPAA
+FedRAMP
+TISAX
+IEC 62443
+security policies
+security awareness
+audit
+auditing
+compliance
+
+# --- OT / industrial
+OT security
+ICS
+SCADA
+PLC
+DCS
+HMI
+IEC 61850
+Modbus
+Profinet
+EtherNet/IP
+Nozomi
+Claroty
+Dragos
+
+# --- Certifications
+CompTIA Security+
+Security+
+CompTIA Network+
+Network+
+CompTIA A+
+CySA+
+PenTest+
+CASP+
+CEH
+OSCP
+OSCE
+OSWE
+eJPT
+eCPPT
+PNPT
+CPTS
+CJCA
+CDSA
+CISSP
+CISM
+CISA
+CRISC
+SSCP
+GSEC
+GCIH
+GCIA
+GCFA
+BTL1
+CCNA
+CCNP
+AZ-900
+AZ-104
+AZ-500
+SC-200
+SC-900
+AWS Certified
+ITIL
+ITIL 4
+
+# --- Networking
+TCP/IP
+DNS
+DHCP
+VPN
+IPsec
+SSL/TLS
+TLS
+VLAN
+routing
+switching
+firewalls
+firewall
+proxy
+load balancing
+SD-WAN
+Wi-Fi
+WLAN
+LAN
+WAN
+NAT
+BGP
+OSPF
+Cisco
+Juniper
+Aruba
+Meraki
+Ubiquiti
+network security
+network monitoring
+SNMP
+NetFlow
+
+# --- Systems / IT support
+Windows
+Windows Server
+Windows 10
+Windows 11
+macOS
+Linux
+Ubuntu
+Debian
+Red Hat
+RHEL
+CentOS
+Bash
+PowerShell
+Microsoft 365
+Office 365
+Microsoft Exchange
+Exchange Online
+SharePoint
+Microsoft Teams
+Intune
+SCCM
+MECM
+Endpoint Manager
+Jamf
+MDM
+Google Workspace
+ServiceNow
+Jira
+Jira Service Management
+Zendesk
+Freshdesk
+GLPI
+ticketing
+ITSM
+RMM
+remote support
+TeamViewer
+AnyDesk
+VMware
+vSphere
+ESXi
+Hyper-V
+Proxmox
+VirtualBox
+virtualization
+Citrix
+backup
+Veeam
+printers
+hardware
+imaging
+onboarding
+asset management
+troubleshooting
+help desk
+service desk
+desktop support
+field support
+technical support
+customer support
+SLA
+
+# --- Cloud / DevOps
+AWS
+Azure
+GCP
+Google Cloud
+cloud security
+CSPM
+CNAPP
+CWPP
+CASB
+Kubernetes
+Docker
+containers
+Terraform
+Ansible
+CI/CD
+GitHub Actions
+GitLab CI
+Jenkins
+Git
+DevSecOps
+infrastructure as code
+IaC
+
+# --- Programming / data
+Python
+Golang
+Rust
+C++
+C#
+Java
+JavaScript
+TypeScript
+PHP
+Ruby
+SQL
+MySQL
+PostgreSQL
+NoSQL
+MongoDB
+REST APIs
+APIs
+JSON
+regex
+scripting
+automation
+React
+Node.js
+.NET
+KQL
+SPL
+pandas
+
+# --- AI
+machine learning
+LLM
+LLMs
+generative AI
+prompt injection
+AI security
+
+# --- Spanish
+ciberseguridad
+seguridad de la información
+respuesta a incidentes
+análisis forense
+gestión de vulnerabilidades
+pruebas de penetración
+hacking ético
+directorio activo
+cortafuegos
+redes
+copias de seguridad
+soporte técnico
+atención al usuario
+microinformática
+inventario
+
+# --- Romanian
+securitate cibernetică
+securitatea informației
+răspuns la incidente
+managementul vulnerabilităților
+testare de penetrare
+rețele
+suport tehnic

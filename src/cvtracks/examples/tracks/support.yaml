@@ -1,0 +1,9 @@
+id: support
+title: {es: Técnico de Soporte IT, en: IT Support Technician}
+languages: [es, en]
+summary: support
+include_tags: [support]
+sections: [summary, experience, education, certifications, skills, languages]
+skills_order: [support, systems]
+limits: {bullets: 4, max_words: 600}
+keywords: [ticketing, Windows, Active Directory, hardware]

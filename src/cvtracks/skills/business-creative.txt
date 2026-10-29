@@ -1,0 +1,147 @@
+# Business, operations and creative roles. Used with the other files in this folder. Short acronyms
+# (CRM, SEO, KPI) only match in capitals.
+
+# --- Office and business tools
+Microsoft Office
+Microsoft Excel
+PowerPoint
+Word
+Outlook
+Google Workspace
+SAP
+Oracle
+ERP
+CRM
+Salesforce
+HubSpot
+Zoho
+Pipedrive
+Dynamics 365
+Zendesk
+Freshdesk
+Intercom
+Notion
+Asana
+Trello
+Monday.com
+Slack
+Microsoft Teams
+
+# --- Sales, customer service, marketing
+customer service
+customer support
+customer success
+account management
+B2B
+B2C
+lead generation
+cold calling
+negotiation
+upselling
+retention
+KPI
+KPIs
+NPS
+CSAT
+digital marketing
+content marketing
+email marketing
+social media
+community management
+copywriting
+SEO
+SEM
+PPC
+Google Ads
+Meta Ads
+Google Analytics
+GA4
+marketing automation
+Mailchimp
+WordPress
+Shopify
+e-commerce
+
+# --- Operations, finance, people
+project management
+PMP
+PRINCE2
+Lean
+Six Sigma
+process improvement
+stakeholder management
+budgeting
+forecasting
+financial reporting
+accounting
+bookkeeping
+accounts payable
+accounts receivable
+IFRS
+payroll
+procurement
+purchasing
+supply chain
+logistics
+inventory management
+recruitment
+talent acquisition
+onboarding
+GDPR
+compliance
+risk management
+business analysis
+requirements gathering
+UAT
+
+# --- Design and media
+Figma
+Sketch
+Adobe XD
+Photoshop
+Illustrator
+InDesign
+Premiere Pro
+After Effects
+Lightroom
+Canva
+Blender
+UX
+UI
+UX research
+user research
+wireframing
+prototyping
+design systems
+typography
+branding
+video editing
+motion graphics
+photography
+
+# --- Spanish
+atención al cliente
+gestión de proyectos
+contabilidad
+facturación
+recursos humanos
+nóminas
+ventas
+marketing digital
+redes sociales
+logística
+compras
+administración
+
+# --- Romanian
+relații cu clienții
+managementul proiectelor
+contabilitate
+facturare
+resurse umane
+salarizare
+vânzări
+marketing digital
+rețele sociale
+logistică
+achiziții

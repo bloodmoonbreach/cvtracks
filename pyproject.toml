@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cvtracks"
+version = "0.1.0"
+description = "One master file of facts → every CV you need: tracks × languages × formats (PDF, HTML, Markdown, JSON Resume), with lint and per-job tailoring that never invents."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "bloodmoonbreach" }]
+keywords = ["cv", "resume", "job-search", "typst", "json-resume", "cli"]
+dependencies = ["pyyaml>=6"]
+
+[project.optional-dependencies]
+pdf = ["typst>=0.12"]
+safety = ["remote-eligibility"]
+dev = ["pytest>=8", "typst>=0.12"]
+
+[project.scripts]
+cvtracks = "cvtracks.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+cvtracks = ["examples/*.yaml", "examples/tracks/*.yaml", "skills/*.txt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,124 @@
+# Software development and data. Used with the other files in this folder: only terms listed in some file
+# can be reported as "missing" from a CV. See it-security.txt for the matching rules.
+
+# --- Languages and frameworks
+Kotlin
+Swift
+Scala
+Elixir
+Dart
+Flutter
+React Native
+Vue
+Vue.js
+Angular
+Svelte
+Next.js
+Django
+Flask
+FastAPI
+Spring
+Spring Boot
+Laravel
+Ruby on Rails
+Express
+GraphQL
+gRPC
+HTML
+CSS
+Tailwind
+Sass
+WebSockets
+microservices
+unit testing
+test automation
+Selenium
+Playwright
+Cypress
+Jest
+pytest
+TDD
+code review
+design patterns
+OOP
+data structures
+algorithms
+
+# --- Platforms and tools
+Linux
+Bash
+Redis
+Kafka
+RabbitMQ
+Elasticsearch
+Nginx
+serverless
+AWS Lambda
+Firebase
+Supabase
+Vercel
+Heroku
+Prometheus
+Grafana
+observability
+Datadog
+Jira
+Confluence
+Agile
+Scrum
+Kanban
+
+# --- Data and analytics
+data analysis
+data analytics
+data engineering
+data science
+data visualisation
+data visualization
+data modelling
+data modeling
+ETL
+ELT
+data warehouse
+data pipelines
+dbt
+Airflow
+Spark
+PySpark
+Hadoop
+Snowflake
+BigQuery
+Redshift
+Databricks
+Power BI
+Tableau
+Looker
+Looker Studio
+Excel
+Google Sheets
+statistics
+A/B testing
+NumPy
+scikit-learn
+TensorFlow
+PyTorch
+Jupyter
+R
+MLOps
+NLP
+computer vision
+deep learning
+
+# --- Spanish
+desarrollo web
+pruebas unitarias
+análisis de datos
+ciencia de datos
+aprendizaje automático
+bases de datos
+
+# --- Romanian
+dezvoltare web
+analiza datelor
+baze de date
+învățare automată

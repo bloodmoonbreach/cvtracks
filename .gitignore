@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+out/
+# personal CV data never goes in this repo; keep your workspace elsewhere
+/master.yaml
+!src/cvtracks/examples/master.yaml
+tracks/
+!src/cvtracks/examples/tracks/
